@@ -1,0 +1,67 @@
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+body {
+    background-color: powderblue;
+   
+    
+    
+}
+h1 {
+    color: blue;
+
+}
+
+img{
+    float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+    background-size: cover;
+    
+}
+.images {
+    position: absolute;
+    left: 10px;
+    top: 200px;
+    font-size: 120%;
+    display: flex;
+    padding: 0 0 5px 15px;
+    text-align: center;
+}
+ ul {
+     padding-right: 10px;
+     list-style-type: none;
+     display: inline-block;
+     text-align: center;
+     display:block;
+
+}
+ li {
+    display: inline-block;
+    
+    text-align: center;
+}
+.special_ul li img {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+}
+
+p {
+    color: red;
+}
+div {
+    text-align: center;
+}
+.boxed {
+    border: 3px double green ;
+}
+
